@@ -1,16 +1,7 @@
-# responsive_app
+# Flutter Responsive App Boiler
+## Software For Mobile Devices Classwork #4
+### Group: 20K-0157 Qasim, 20K-1731 Zain,	20K-0201 Owais
 
-A new Flutter project.
+![unnamed](https://github.com/M1keZulu/responsive_app_boiler/assets/68997634/4be00674-15be-4cd2-b46d-2b14c374a1d3)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![unnamed](https://github.com/M1keZulu/responsive_app_boiler/assets/68997634/7f968666-0db5-4deb-a796-ff483a2e25cf)
